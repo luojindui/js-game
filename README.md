@@ -10,6 +10,8 @@
 
 ---------------------------
 ### Flappy bird
+
+分数显示有一些问题
 ![title](https://github.com/siguatutu/js-game/blob/master/%E9%B8%9F/demo/demo1.jpg)
 ![title](https://github.com/siguatutu/js-game/blob/master/%E9%B8%9F/demo/demo2.jpg)
 ![title](https://github.com/siguatutu/js-game/blob/master/%E9%B8%9F/demo/demo3.gif)
